@@ -96,7 +96,6 @@ function App() {
           addGuessedLetter={addGuessedLetter}
         />
       </div>
-      <h1>{wordToGuess}</h1>
     </div>
   );
 }
